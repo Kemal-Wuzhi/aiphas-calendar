@@ -54,6 +54,12 @@
         Submit
       </button>
 
+      <div class="text-center mb-3">
+        <p>
+          <router-link to="/signin">Sign In</router-link>
+        </p>
+      </div>
+
       <p class="mt-5 mb-3 text-muted text-center">
  
       </p>
